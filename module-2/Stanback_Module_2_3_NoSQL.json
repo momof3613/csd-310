@@ -1,0 +1,25 @@
+
+{
+  "user": {
+    "user_id": 101,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "birthdate": "1994-06-13",
+    "roles": [
+      "Student",
+      "Employee"
+    ],
+    "dependents": [
+      {
+        "name": "Alex",
+        "relationship": "Child"
+      },
+      {
+        "name": "Jordan",
+        "relationship": "Child"
+      }
+    ]
+  }
+}
+
+
